@@ -1,0 +1,3 @@
+JP001,35xxxv,ONE OK ROCK,2015.11.23,SONY-MUSIC-JAPAN,500
+JP002,Koko ga Rhodes da, Koko de Tobe,AKB48,2015.01.21,AKS,500
+JP003,Kiss Kiss Kiss,KAT-TUN,2015.03.11,Johnny Entertainment,500
